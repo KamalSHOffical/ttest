@@ -1,6 +1,6 @@
 ### Appetizers
 
-- [x] Hummus
+- [ ] Hummus
 - [ ] Falafel
 - [ ] Baba Ganoush
 - [ ] Tabouleh
